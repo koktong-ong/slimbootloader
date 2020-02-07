@@ -196,7 +196,7 @@ class BaseBoard(object):
 
 		self.BUILD_CSME_UPDATE_DRIVER    = 0
 
-		self.CPU_MAX_LOGICAL_PROCESSOR_NUMBER = 16
+		self.CPU_MAX_LOGICAL_PROCESSOR_NUMBER = 32
 
 		self.ACM_SIZE              = 0
 		self.ACM3_SIZE             = 0
